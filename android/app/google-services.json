@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1068164403030",
+    "project_id": "cryptearntestapp",
+    "storage_bucket": "cryptearntestapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068164403030:android:cd00b411dddb7ed7e9d0f7",
+        "android_client_info": {
+          "package_name": "com.test.cryptearn.bd.exam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068164403030-36fa29a896ccoudoeqvhm30pin24cbe3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Gmimq7dP0sg_EoaiXaUCbRu5X7UUYWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068164403030-36fa29a896ccoudoeqvhm30pin24cbe3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
